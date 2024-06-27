@@ -1,6 +1,6 @@
 # Remaining Useful Lifetime Estimation of Bearings Operating under Time-Varying Conditions
 
-This repository contains the code for the paper [Remaining Useful Lifetime Estimation of Bearings Operating under Time-Varying Conditions](https://papers.phmsociety.org/index.php/phme),
+This repository contains the code for the paper [Remaining Useful Lifetime Estimation of Bearings Operating under Time-Varying Conditions](https://papers.phmsociety.org/index.php/phme/article/view/4101),
 written by Alireza Javanmardi, Osarenren K. Aimiyekagbon,  Amelie Bender, James K. Kimotho, Walter Sextro, and Eyke Hüllermeier.
 This paper appears in the $8^\text{th}$ European Conference of the PHM Society, 2024.
 

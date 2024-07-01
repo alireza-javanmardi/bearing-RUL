@@ -26,11 +26,13 @@ This line of code sets aside the 17th bearing for testing and uses the remaining
 If you use this code, please cite our paper:
 
 ```
-@inproceedings{javanmardi2024bearing,
-      title = {Remaining Useful Lifetime Estimation of Bearings Operating under Time-Varying Conditions}, 
-      author = {Javanmardi, Alireza and Aimiyekagbon, Osarenren Kennedy and Bender, Amelie and Kimotho, James Kuria and Sextro, Walter and H\"{u}llermeier, Eyke},
-      booktitle={Proceedings of the European Conference Of The PHM Society},
-      year={2024}
+@inproceedings{javanmardi2024remaining,
+  title={Remaining Useful Lifetime Estimation of Bearings Operating under Time-Varying Conditions},
+  author={Javanmardi, Alireza and Aimiyekagbon, Osarenren Kennedy and Bender, Amelie and Kimotho, James Kuria and Sextro, Walter and H{\"u}llermeier, Eyke},
+  booktitle={PHM Society European Conference},
+  volume={8},
+  number={1},
+  year={2024}
 }
 
 ```
